@@ -1,0 +1,54 @@
+18:09:46.357 [main] INFO  testCases.TC001 - Clicking patient Stories
+18:10:27.308 [main] INFO  testCases.TC001 - Clicking patient Stories
+18:10:29.473 [main] INFO  testCases.TC001 - Clicking availabilty
+18:11:10.478 [main] INFO  testCases.TC001 - Clicking Relevance DropDown
+18:11:51.271 [main] INFO  testCases.TC001 - Selecting Fee Description
+18:11:54.150 [main] INFO  testCases.TC001 - Extracting Doctors information
+18:11:54.151 [main] INFO  testCases.TC001 - ************Ending TC002 TestCases************
+18:11:54.154 [main] INFO  testCases.TC001 - ************Starting TC003 TestCases************
+18:12:14.349 [main] INFO  testCases.TC001 - Navigating to Surgeries page
+18:12:14.638 [main] INFO  testCases.TC001 - Scrolling down to Popular Surgeries
+18:12:18.548 [main] INFO  testCases.TC001 - Fetching List of Surgeries
+18:12:18.549 [main] INFO  testCases.TC001 - ************Ending TC003 TestCases************
+18:12:18.554 [main] INFO  testCases.TC001 - ************Starting TC004 TestCases************
+18:12:18.989 [main] INFO  testCases.TC001 - Navigate to For Corporates DropDown
+18:12:59.771 [main] INFO  testCases.TC001 - Selecting Health and wellness plan
+18:12:59.816 [main] INFO  testCases.TC001 - Scrolling down
+18:13:39.253 [main] INFO  testCases.TC001 - Fetched basic details like name,contact,email etc
+18:13:39.297 [main] INFO  testCases.TC001 - printing Thank you Message
+18:13:39.366 [main] INFO  testCases.TC001 - printing Details of Message
+18:13:39.415 [main] INFO  testCases.TC001 - Thankyou Message Verified
+18:13:39.906 [main] INFO  testCases.TC001 - ScreenShot taken
+18:13:39.906 [main] INFO  testCases.TC001 - ************Ending TC004 TestCases************
+10:17:01.080 [main] INFO  testCases.TC001 - *******Starting the TC001 TestCases********
+10:17:03.447 [main] INFO  testCases.TC001 - ******Clicking the location Text Box*******
+10:17:03.772 [main] INFO  testCases.TC001 - ******Clearing the location Text Box*******
+10:17:04.037 [main] INFO  testCases.TC001 - ******Sending Location******
+10:17:04.621 [main] INFO  testCases.TC001 - *****Selecting Current Location******
+10:17:04.857 [main] INFO  testCases.TC001 - *****Search Doctor type******
+10:17:04.989 [main] INFO  testCases.TC001 - ****Sending preffered doctor******
+10:17:44.542 [main] INFO  testCases.TC001 - *****Selecting doctor*******
+10:17:44.543 [main] INFO  testCases.TC001 - *************Ending the TC001 TestCases************
+10:17:44.562 [main] INFO  testCases.TC001 - *************Starting TC002 TestCases************
+10:17:44.773 [main] INFO  testCases.TC001 - Clicking patient Stories
+10:17:45.946 [main] INFO  testCases.TC001 - Clicking patient Stories
+10:18:26.488 [main] INFO  testCases.TC001 - Clicking patient Stories
+10:18:27.647 [main] INFO  testCases.TC001 - Clicking patient Stories
+10:19:08.542 [main] INFO  testCases.TC001 - Clicking patient Stories
+10:19:09.678 [main] INFO  testCases.TC001 - Clicking patient Stories
+10:19:50.105 [main] INFO  testCases.TC001 - Clicking patient Stories
+10:19:52.261 [main] INFO  testCases.TC001 - Clicking availabilty
+10:20:32.953 [main] INFO  testCases.TC001 - Clicking Relevance DropDown
+10:21:13.925 [main] INFO  testCases.TC001 - Selecting Fee Description
+10:21:17.928 [main] INFO  testCases.TC001 - Extracting Doctors information
+10:21:17.929 [main] INFO  testCases.TC001 - ************Ending TC002 TestCases************
+10:21:17.935 [main] INFO  testCases.TC001 - ************Starting TC003 TestCases************
+10:21:20.162 [main] INFO  testCases.TC001 - Navigating to Surgeries page
+10:21:20.383 [main] INFO  testCases.TC001 - Scrolling down to Popular Surgeries
+10:21:25.489 [main] INFO  testCases.TC001 - Fetching List of Surgeries
+10:21:25.490 [main] INFO  testCases.TC001 - ************Ending TC003 TestCases************
+10:21:25.504 [main] INFO  testCases.TC001 - ************Starting TC004 TestCases************
+10:21:25.885 [main] INFO  testCases.TC001 - Navigate to For Corporates DropDown
+10:22:08.713 [main] INFO  testCases.TC001 - Selecting Health and wellness plan
+10:22:08.779 [main] INFO  testCases.TC001 - Scrolling down
+10:22:48.963 [main] INFO  testCases.TC001 - Fetched basic details like name,contact,email etc
